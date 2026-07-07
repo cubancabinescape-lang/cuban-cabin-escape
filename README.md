@@ -1,2 +1,3 @@
 # Cuban Cabin Escape
-Luxury cabin rental website for Cuban Cabin Escape in Hyatt Lake, Warren, Texas.
+
+Premium static website for Cuban Cabin Escape in Hyatt Lake, Warren, Texas.
