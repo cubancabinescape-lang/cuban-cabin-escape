@@ -1,3 +1,2 @@
 # Cuban Cabin Escape
-
-Premium static website for Cuban Cabin Escape in Hyatt Lake, Warren, Texas.
+Website with real photos and July 2026 availability calendar.
